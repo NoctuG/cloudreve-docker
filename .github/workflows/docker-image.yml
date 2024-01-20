@@ -7,9 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -28,4 +26,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: awert567/cloudreve-docker:${{ github.run_number }}
+        tags: awert567/cloudreve-docker:latest
