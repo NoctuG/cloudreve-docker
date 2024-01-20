@@ -1,7 +1,6 @@
-# Cloudreve 使用指南
+# Cloudreve-Docker 使用
 
-这个文件将指导你如何使用 Cloudreve，一个基于云的文件管理系统。
-
+此文件用于构建搭配有Aira2的Cloudreve
 ## 准备工作
 
 首先，你需要安装 Docker。Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何流行的 Linux 机器或 Windows 机器上，也可以实现虚拟化。关于如何安装 Docker，你可以参考 [Docker 官方文档](https://docs.docker.com/get-docker/)。
